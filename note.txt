@@ -1,1 +1,1 @@
-Live Website(Vercel): https://blog-website-nextjs13-4-module12.vercel.app/
+Link: https://cool-lebkuchen-787116.netlify.app/
